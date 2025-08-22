@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MafiaGameBase", "MafiaGameBase\MafiaGameBase.csproj", "{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes", "Classes", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibraryOfCharacters", "ClassLibraryOfCharacters\ClassLibraryOfCharacters.csproj", "{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F586991-8492-4450-A285-4EF5FC866823}
+	EndGlobalSection
+EndGlobal
