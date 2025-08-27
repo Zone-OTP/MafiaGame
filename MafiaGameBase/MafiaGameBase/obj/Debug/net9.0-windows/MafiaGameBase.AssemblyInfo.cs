@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MafiaGameBase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683d0c1d831db0e318ef15c0605aedeed3153df5")]
 [assembly: System.Reflection.AssemblyProductAttribute("MafiaGameBase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MafiaGameBase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

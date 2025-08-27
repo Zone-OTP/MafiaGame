@@ -22,3 +22,4 @@ C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Deb
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.PlayerControllsDay.resources
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.PlayerControlsNight.resources
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.ControlForm.resources
+C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.sourcelink.json

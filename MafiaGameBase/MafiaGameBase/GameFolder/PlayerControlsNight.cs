@@ -21,7 +21,7 @@ namespace MafiaGameBase.GameFolder
         {
             InitializeComponent();
             PlayersDataGrid.AutoGenerateColumns = false;
-            PlayersDataGrid.Columns.Clear(); 
+            PlayersDataGrid.Columns.Clear();
             PlayersDataGrid.Columns.Add(new DataGridViewTextBoxColumn
             {
                 DataPropertyName = "Name",
@@ -38,35 +38,38 @@ namespace MafiaGameBase.GameFolder
 
         private void UseAbilityButton_Click(object sender, EventArgs e)
         {
+            var abilityUseCount = 0;
             var ability = _player.UseAbility();
             var selectedPlayer = (Player)PlayersDataGrid.SelectedRows[0].DataBoundItem;
 
-            switch (ability)
+            if (selectedPlayer != null && abilityUseCount < 1)
             {
-                case "kill":
-                    if (!selectedPlayer.Protected) { selectedPlayer.Alive = false; }
-                    MainGameForm.dayUpdate += $"mafia Targeted {selectedPlayer.Name}, if they're alive doctor saved them";
-                    break;
-                case "protected":
-                    selectedPlayer.Protected = true;
-                    selectedPlayer.Alive = true;
-                    break;
-                case "deduce":
-                    StatusLabel.Text = $"Player is {selectedPlayer.GetType()}";
-                    break;
-                case "sleep":
-                    StatusLabel.Text = "you're a villager just sleep man";
-                    break;
-                case "Win on Village Vote Kill":
-                    StatusLabel.Text = "you're a FUCKING CLOWN MAN, SLEEP!";
-                    break;
+                switch (ability)
+                {
+                    case "kill":
+                        if (!selectedPlayer.Protected && selectedPlayer != _player) { selectedPlayer.Alive = false; }
+                        MainGameForm.dayUpdate += $"mafia Targeted {selectedPlayer.Name}, if they're alive doctor saved them";
+                        abilityUseCount++;
+                        break;
+                    case "protected":
+                        selectedPlayer.Protected = true;
+                        selectedPlayer.Alive = true;
+                        break;
+                    case "deduce":
+                        StatusLabel.Text = $"Player is {selectedPlayer.GetType().ToString()}";
+                        abilityUseCount++;
+                        break;
+                    case "sleep":
+                        StatusLabel.Text = "you're a villager just sleep man";
+                        abilityUseCount++;
+                        break;
+                    case "Win on Village Vote Kill":
+                        StatusLabel.Text = "you're a FUCKING CLOWN MAN, SLEEP!";
+                        abilityUseCount++;
+                        break;
+                }
             }
-            
-            Form parentForm = this.FindForm();
-            if (parentForm != null)
-            {
-                parentForm.Close();
-            }
+
         }
 
         private void PlayersDataGrid_SelectionChanged(object sender, EventArgs e)
@@ -75,5 +78,13 @@ namespace MafiaGameBase.GameFolder
             //PlayerSelectedLabel.Text = $"Selected {selectedPlayer.Name}";
         }
 
+        private void Contuinue_Click(object sender, EventArgs e)
+        {
+            Form parentForm = this.FindForm();
+            if (parentForm != null)
+            {
+                parentForm.Close();
+            }
+        }
     }
 }

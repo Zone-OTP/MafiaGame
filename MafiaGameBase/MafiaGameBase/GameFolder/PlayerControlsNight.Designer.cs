@@ -35,6 +35,7 @@
             AbilityNameLabel = new Label();
             PlayerSelectedLabel = new Label();
             StatusLabel = new Label();
+            Contuinue = new Button();
             ((System.ComponentModel.ISupportInitialize)PlayersDataGrid).BeginInit();
             SuspendLayout();
             // 
@@ -103,10 +104,21 @@
             StatusLabel.TabIndex = 6;
             StatusLabel.Text = "Status";
             // 
+            // Contuinue
+            // 
+            Contuinue.Location = new Point(503, 367);
+            Contuinue.Name = "Contuinue";
+            Contuinue.Size = new Size(94, 29);
+            Contuinue.TabIndex = 7;
+            Contuinue.Text = "Continue";
+            Contuinue.UseVisualStyleBackColor = true;
+            Contuinue.Click += Contuinue_Click;
+            // 
             // PlayerControlsNight
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(Contuinue);
             Controls.Add(StatusLabel);
             Controls.Add(PlayerSelectedLabel);
             Controls.Add(AbilityNameLabel);
@@ -130,5 +142,6 @@
         private Label AbilityNameLabel;
         private Label PlayerSelectedLabel;
         private Label StatusLabel;
+        private Button Contuinue;
     }
 }
