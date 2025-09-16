@@ -36,24 +36,27 @@
             PlayerSelectedLabel = new Label();
             StatusLabel = new Label();
             Contuinue = new Button();
+            TeamM8 = new Label();
             ((System.ComponentModel.ISupportInitialize)PlayersDataGrid).BeginInit();
             SuspendLayout();
             // 
             // PlayersDataGrid
             // 
             PlayersDataGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            PlayersDataGrid.Location = new Point(721, 50);
+            PlayersDataGrid.Location = new Point(631, 38);
+            PlayersDataGrid.Margin = new Padding(3, 2, 3, 2);
             PlayersDataGrid.Name = "PlayersDataGrid";
             PlayersDataGrid.RowHeadersWidth = 51;
-            PlayersDataGrid.Size = new Size(323, 188);
+            PlayersDataGrid.Size = new Size(283, 141);
             PlayersDataGrid.TabIndex = 0;
             PlayersDataGrid.SelectionChanged += PlayersDataGrid_SelectionChanged;
             // 
             // UseAbilityButton
             // 
-            UseAbilityButton.Location = new Point(503, 321);
+            UseAbilityButton.Location = new Point(440, 241);
+            UseAbilityButton.Margin = new Padding(3, 2, 3, 2);
             UseAbilityButton.Name = "UseAbilityButton";
-            UseAbilityButton.Size = new Size(94, 29);
+            UseAbilityButton.Size = new Size(82, 22);
             UseAbilityButton.TabIndex = 1;
             UseAbilityButton.Text = "Use Ability";
             UseAbilityButton.UseVisualStyleBackColor = true;
@@ -62,62 +65,72 @@
             // NameOfPlayerLable
             // 
             NameOfPlayerLable.AutoSize = true;
-            NameOfPlayerLable.Location = new Point(81, 69);
+            NameOfPlayerLable.Location = new Point(71, 52);
             NameOfPlayerLable.Name = "NameOfPlayerLable";
-            NameOfPlayerLable.Size = new Size(113, 20);
+            NameOfPlayerLable.Size = new Size(90, 15);
             NameOfPlayerLable.TabIndex = 2;
             NameOfPlayerLable.Text = "Name Of Player";
             // 
             // PlayerTypeLabel
             // 
             PlayerTypeLabel.AutoSize = true;
-            PlayerTypeLabel.Location = new Point(81, 119);
+            PlayerTypeLabel.Location = new Point(71, 89);
             PlayerTypeLabel.Name = "PlayerTypeLabel";
-            PlayerTypeLabel.Size = new Size(84, 20);
+            PlayerTypeLabel.Size = new Size(67, 15);
             PlayerTypeLabel.TabIndex = 3;
             PlayerTypeLabel.Text = "Player Type";
             // 
             // AbilityNameLabel
             // 
             AbilityNameLabel.AutoSize = true;
-            AbilityNameLabel.Location = new Point(82, 167);
+            AbilityNameLabel.Location = new Point(72, 125);
             AbilityNameLabel.Name = "AbilityNameLabel";
-            AbilityNameLabel.Size = new Size(96, 20);
+            AbilityNameLabel.Size = new Size(76, 15);
             AbilityNameLabel.TabIndex = 4;
             AbilityNameLabel.Text = "Player Ability";
             // 
             // PlayerSelectedLabel
             // 
             PlayerSelectedLabel.AutoSize = true;
-            PlayerSelectedLabel.Location = new Point(487, 119);
+            PlayerSelectedLabel.Location = new Point(426, 89);
             PlayerSelectedLabel.Name = "PlayerSelectedLabel";
-            PlayerSelectedLabel.Size = new Size(110, 20);
+            PlayerSelectedLabel.Size = new Size(86, 15);
             PlayerSelectedLabel.TabIndex = 5;
             PlayerSelectedLabel.Text = "Player Selected";
             // 
             // StatusLabel
             // 
             StatusLabel.AutoSize = true;
-            StatusLabel.Location = new Point(818, 252);
+            StatusLabel.Location = new Point(716, 189);
             StatusLabel.Name = "StatusLabel";
-            StatusLabel.Size = new Size(49, 20);
+            StatusLabel.Size = new Size(39, 15);
             StatusLabel.TabIndex = 6;
             StatusLabel.Text = "Status";
             // 
             // Contuinue
             // 
-            Contuinue.Location = new Point(503, 367);
+            Contuinue.Location = new Point(440, 275);
+            Contuinue.Margin = new Padding(3, 2, 3, 2);
             Contuinue.Name = "Contuinue";
-            Contuinue.Size = new Size(94, 29);
+            Contuinue.Size = new Size(82, 22);
             Contuinue.TabIndex = 7;
             Contuinue.Text = "Continue";
             Contuinue.UseVisualStyleBackColor = true;
             Contuinue.Click += Contuinue_Click;
             // 
+            // TeamM8
+            // 
+            TeamM8.AutoSize = true;
+            TeamM8.Location = new Point(72, 151);
+            TeamM8.Name = "TeamM8";
+            TeamM8.Size = new Size(0, 15);
+            TeamM8.TabIndex = 8;
+            // 
             // PlayerControlsNight
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(TeamM8);
             Controls.Add(Contuinue);
             Controls.Add(StatusLabel);
             Controls.Add(PlayerSelectedLabel);
@@ -126,8 +139,9 @@
             Controls.Add(NameOfPlayerLable);
             Controls.Add(UseAbilityButton);
             Controls.Add(PlayersDataGrid);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "PlayerControlsNight";
-            Size = new Size(1088, 565);
+            Size = new Size(952, 424);
             ((System.ComponentModel.ISupportInitialize)PlayersDataGrid).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -143,5 +157,6 @@
         private Label PlayerSelectedLabel;
         private Label StatusLabel;
         private Button Contuinue;
+        private Label TeamM8;
     }
 }

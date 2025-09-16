@@ -23,3 +23,29 @@ C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Deb
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.PlayerControlsNight.resources
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.ControlForm.resources
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.sourcelink.json
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\bin\Debug\net9.0-windows\MafiaGameBase.exe
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\bin\Debug\net9.0-windows\MafiaGameBase.deps.json
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\bin\Debug\net9.0-windows\MafiaGameBase.runtimeconfig.json
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\bin\Debug\net9.0-windows\MafiaGameBase.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\bin\Debug\net9.0-windows\MafiaGameBase.pdb
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\bin\Debug\net9.0-windows\ClassLibraryOfCharacters.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\bin\Debug\net9.0-windows\ClassLibraryOfCharacters.pdb
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.csproj.AssemblyReference.cache
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.ControlForm.resources
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.GameForm.resources
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.MainGameForm.resources
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.PlayerControllsDay.resources
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GameFolder.PlayerControlsNight.resources
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.csproj.GenerateResource.cache
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.AssemblyInfoInputs.cache
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.AssemblyInfo.cs
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.csproj.CoreCompileInputs.cache
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.sourcelink.json
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGam.64221357.Up2Date
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\refint\MafiaGameBase.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.pdb
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.genruntimeconfig.cache
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\ref\MafiaGameBase.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\MafiaGameBase\obj\Debug\net9.0-windows\MafiaGameBase.Properties.Resources.resources

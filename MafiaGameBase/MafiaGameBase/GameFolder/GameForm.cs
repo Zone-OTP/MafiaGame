@@ -14,7 +14,7 @@ namespace MafiaGameBase.GameFolder
     public partial class GameForm : Form
     {
 
-        private List<string> playerNames = new List<string>();
+        private BindingList<string> playerNames = new BindingList<string>();
         private int playersToAdd = 4;
         public GameForm()
         {
@@ -42,7 +42,7 @@ namespace MafiaGameBase.GameFolder
             }
 
             playerNames.Add(name);
-            PlayerListBox.Items.Add(name);
+            PlayerListBox.DataSource = playerNames;
             PlayerNamesTextBox.Clear();
             StatusLabel.Text = $"{playerNames.Count}/{playersToAdd} players added.";
         }
@@ -54,17 +54,45 @@ namespace MafiaGameBase.GameFolder
 
         private void StartGameButton_Click(object sender, EventArgs e)
         {
-            Game.Initialize(playerNames,
-               (int)NumberOfDetectivesNud.Value,
-               (int)NumberOfJestersNud.Value,
-               (int)NumberOfDoctorsNud.Value,
-               (int)NumberOfMafiaNud.Value,
-               (int)NumberOfVillagersNud.Value);
+            if (playersToAdd != playerNames.Count)
+            {
+                MessageBox.Show("ether too many players or too little players to run the game compared to player count, please make sure player count and the ammount of players are equal");
+                return;
+            }
+
+            try
+            {
+                Game.Initialize(playerNames,
+                   (int)NumberOfDetectivesNud.Value,
+                   (int)NumberOfJestersNud.Value,
+                   (int)NumberOfDoctorsNud.Value,
+                   (int)NumberOfMafiaNud.Value,
+                   (int)NumberOfVillagersNud.Value);
+            }
+            catch (Exception ex) { MessageBox.Show(ex.Message); return; }
+
 
             var gamePlayStart = new MainGameForm();
             gamePlayStart.ShowDialog();
             this.Hide();
-            
+
+        }
+
+        private void GameForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void RemovePlayer_Click(object sender, EventArgs e)
+        {
+            string player = PlayerListBox.SelectedItem.ToString();
+            if (player != null)
+            {
+                StatusLabel.Text = $"Removed Player {player}";
+                playerNames.Remove(player);
+                return;
+            }
+            else { StatusLabel.Text = "Select a player to Remove"; }
         }
     }
 }

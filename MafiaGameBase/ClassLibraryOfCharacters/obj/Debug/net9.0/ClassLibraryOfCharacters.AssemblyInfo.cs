@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassLibraryOfCharacters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed1b61eb2d231c0cb13f71a130653c05fea05d66")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassLibraryOfCharacters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassLibraryOfCharacters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

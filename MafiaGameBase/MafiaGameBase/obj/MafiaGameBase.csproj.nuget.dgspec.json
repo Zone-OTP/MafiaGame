@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj": {}
+    "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj": {
+    "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
+        "projectUniqueName": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
         "projectName": "ClassLibraryOfCharacters",
-        "projectPath": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
-        "packagesPath": "C:\\Users\\BFB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\obj\\",
+        "projectPath": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
+        "packagesPath": "C:\\Users\\MMA DEV WIZARD\\.nuget\\packages\\",
+        "outputPath": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BFB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MMA DEV WIZARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj": {
+    "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj",
+        "projectUniqueName": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj",
         "projectName": "MafiaGameBase",
-        "projectPath": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj",
-        "packagesPath": "C:\\Users\\BFB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\obj\\",
+        "projectPath": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj",
+        "packagesPath": "C:\\Users\\MMA DEV WIZARD\\.nuget\\packages\\",
+        "outputPath": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\BFB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MMA DEV WIZARD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,15 +91,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0-windows7.0": {
             "targetAlias": "net9.0-windows",
             "projectReferences": {
-              "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj": {
-                "projectPath": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj"
+              "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj": {
+                "projectPath": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj"
               }
             }
           }
@@ -139,7 +137,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

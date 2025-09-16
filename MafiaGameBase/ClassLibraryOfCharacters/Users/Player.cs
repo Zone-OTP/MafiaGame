@@ -26,8 +26,8 @@ namespace ClassLibraryOfCharacters.Users
         public virtual string UseAbility() {
             return "NothingHappened";
         }
-        public virtual string GetType() {
-            return "type";
+        public virtual char GetType() {
+            return 'T';
         }
     }
 }

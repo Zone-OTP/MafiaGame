@@ -19,9 +19,9 @@ namespace ClassLibraryOfCharacters.Roles
         {
             return Ability;
         }
-        public override string GetType()
+        public override char GetType()
         {
-            return type.ToString();
+            return type;
         }
 
     }

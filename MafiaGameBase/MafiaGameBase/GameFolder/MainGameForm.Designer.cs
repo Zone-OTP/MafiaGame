@@ -35,9 +35,10 @@
             // 
             // StartDayButton
             // 
-            StartDayButton.Location = new Point(338, 376);
+            StartDayButton.Location = new Point(296, 282);
+            StartDayButton.Margin = new Padding(3, 2, 3, 2);
             StartDayButton.Name = "StartDayButton";
-            StartDayButton.Size = new Size(131, 29);
+            StartDayButton.Size = new Size(115, 22);
             StartDayButton.TabIndex = 0;
             StartDayButton.Text = "Start New Day";
             StartDayButton.UseVisualStyleBackColor = true;
@@ -46,31 +47,33 @@
             // DayCounterLabel
             // 
             DayCounterLabel.AutoSize = true;
-            DayCounterLabel.Location = new Point(49, 44);
+            DayCounterLabel.Location = new Point(43, 33);
             DayCounterLabel.Name = "DayCounterLabel";
-            DayCounterLabel.Size = new Size(78, 20);
+            DayCounterLabel.Size = new Size(63, 15);
             DayCounterLabel.TabIndex = 1;
             DayCounterLabel.Text = "Day Count";
             // 
             // PreviusDayUpNightLabel
             // 
             PreviusDayUpNightLabel.AutoSize = true;
-            PreviusDayUpNightLabel.Location = new Point(338, 159);
+            PreviusDayUpNightLabel.Location = new Point(296, 119);
             PreviusDayUpNightLabel.Name = "PreviusDayUpNightLabel";
-            PreviusDayUpNightLabel.Size = new Size(131, 20);
+            PreviusDayUpNightLabel.Size = new Size(104, 15);
             PreviusDayUpNightLabel.TabIndex = 2;
             PreviusDayUpNightLabel.Text = "Prev Night Update";
             // 
             // MainGameForm
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(PreviusDayUpNightLabel);
             Controls.Add(DayCounterLabel);
             Controls.Add(StartDayButton);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "MainGameForm";
             Text = "MainGameForm";
+            Activated += MainGameForm_Activated;
             FormClosed += MainGameForm_FormClosed;
             Load += MainGameForm_Load;
             Shown += MainGameForm_Shown;

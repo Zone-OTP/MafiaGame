@@ -9,3 +9,15 @@ C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\ClassLibraryOfCharact
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\refint\ClassLibraryOfCharacters.dll
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.pdb
 C:\Users\BFB\source\repos\Zone-OTP\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ref\ClassLibraryOfCharacters.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\bin\Debug\net9.0\ClassLibraryOfCharacters.deps.json
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\bin\Debug\net9.0\ClassLibraryOfCharacters.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\bin\Debug\net9.0\ClassLibraryOfCharacters.pdb
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.GeneratedMSBuildEditorConfig.editorconfig
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.AssemblyInfoInputs.cache
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.AssemblyInfo.cs
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.csproj.CoreCompileInputs.cache
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.sourcelink.json
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\refint\ClassLibraryOfCharacters.dll
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ClassLibraryOfCharacters.pdb
+D:\WORK STUFF ZEZVA\MafiaGame\MafiaGameBase\ClassLibraryOfCharacters\obj\Debug\net9.0\ref\ClassLibraryOfCharacters.dll

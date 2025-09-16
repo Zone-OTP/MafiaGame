@@ -45,6 +45,7 @@
             NumberOfJestersLabel = new Label();
             NumberOfDoctorsLabel = new Label();
             NumberOfMafiaLabel = new Label();
+            RemovePlayer = new Button();
             ((System.ComponentModel.ISupportInitialize)playerCount).BeginInit();
             ((System.ComponentModel.ISupportInitialize)NumberOfDetectivesNud).BeginInit();
             ((System.ComponentModel.ISupportInitialize)NumberOfJestersNud).BeginInit();
@@ -55,37 +56,42 @@
             // 
             // playerCount
             // 
-            playerCount.Location = new Point(29, 69);
+            playerCount.Location = new Point(25, 52);
+            playerCount.Margin = new Padding(3, 2, 3, 2);
             playerCount.Maximum = new decimal(new int[] { 10, 0, 0, 0 });
             playerCount.Minimum = new decimal(new int[] { 4, 0, 0, 0 });
             playerCount.Name = "playerCount";
-            playerCount.Size = new Size(150, 27);
+            playerCount.Size = new Size(131, 23);
             playerCount.TabIndex = 0;
             playerCount.Value = new decimal(new int[] { 4, 0, 0, 0 });
             playerCount.ValueChanged += playerCount_ValueChanged;
             // 
             // PlayerNamesTextBox
             // 
-            PlayerNamesTextBox.Location = new Point(301, 68);
+            PlayerNamesTextBox.BackColor = SystemColors.Menu;
+            PlayerNamesTextBox.BorderStyle = BorderStyle.FixedSingle;
+            PlayerNamesTextBox.Location = new Point(263, 51);
+            PlayerNamesTextBox.Margin = new Padding(3, 2, 3, 2);
             PlayerNamesTextBox.Name = "PlayerNamesTextBox";
-            PlayerNamesTextBox.Size = new Size(183, 27);
+            PlayerNamesTextBox.PlaceholderText = "Player Name";
+            PlayerNamesTextBox.Size = new Size(161, 23);
             PlayerNamesTextBox.TabIndex = 1;
-            PlayerNamesTextBox.Text = "Player Name";
             // 
             // NumberOfPlayers
             // 
             NumberOfPlayers.AutoSize = true;
-            NumberOfPlayers.Location = new Point(29, 46);
+            NumberOfPlayers.Location = new Point(25, 34);
             NumberOfPlayers.Name = "NumberOfPlayers";
-            NumberOfPlayers.Size = new Size(133, 20);
+            NumberOfPlayers.Size = new Size(107, 15);
             NumberOfPlayers.TabIndex = 2;
             NumberOfPlayers.Text = "Number Of Players";
             // 
             // AddPlayer
             // 
-            AddPlayer.Location = new Point(525, 69);
+            AddPlayer.Location = new Point(459, 52);
+            AddPlayer.Margin = new Padding(3, 2, 3, 2);
             AddPlayer.Name = "AddPlayer";
-            AddPlayer.Size = new Size(94, 29);
+            AddPlayer.Size = new Size(82, 22);
             AddPlayer.TabIndex = 3;
             AddPlayer.Text = "Add Player";
             AddPlayer.UseVisualStyleBackColor = true;
@@ -94,25 +100,27 @@
             // StatusLabel
             // 
             StatusLabel.AutoSize = true;
-            StatusLabel.Location = new Point(352, 114);
+            StatusLabel.Location = new Point(308, 86);
             StatusLabel.Name = "StatusLabel";
-            StatusLabel.Size = new Size(49, 20);
+            StatusLabel.Size = new Size(39, 15);
             StatusLabel.TabIndex = 4;
             StatusLabel.Text = "Status";
             // 
             // PlayerListBox
             // 
             PlayerListBox.FormattingEnabled = true;
-            PlayerListBox.Location = new Point(638, 46);
+            PlayerListBox.Location = new Point(558, 34);
+            PlayerListBox.Margin = new Padding(3, 2, 3, 2);
             PlayerListBox.Name = "PlayerListBox";
-            PlayerListBox.Size = new Size(150, 104);
+            PlayerListBox.Size = new Size(132, 79);
             PlayerListBox.TabIndex = 5;
             // 
             // StartGameButton
             // 
-            StartGameButton.Location = new Point(352, 231);
+            StartGameButton.Location = new Point(308, 173);
+            StartGameButton.Margin = new Padding(3, 2, 3, 2);
             StartGameButton.Name = "StartGameButton";
-            StartGameButton.Size = new Size(94, 29);
+            StartGameButton.Size = new Size(82, 22);
             StartGameButton.TabIndex = 6;
             StartGameButton.Text = "Start Game";
             StartGameButton.UseVisualStyleBackColor = true;
@@ -120,90 +128,106 @@
             // 
             // NumberOfDetectivesNud
             // 
-            NumberOfDetectivesNud.Location = new Point(29, 380);
+            NumberOfDetectivesNud.Location = new Point(25, 285);
+            NumberOfDetectivesNud.Margin = new Padding(3, 2, 3, 2);
             NumberOfDetectivesNud.Name = "NumberOfDetectivesNud";
-            NumberOfDetectivesNud.Size = new Size(150, 27);
+            NumberOfDetectivesNud.Size = new Size(131, 23);
             NumberOfDetectivesNud.TabIndex = 7;
             // 
             // NumberOfJestersNud
             // 
-            NumberOfJestersNud.Location = new Point(214, 380);
+            NumberOfJestersNud.Location = new Point(187, 285);
+            NumberOfJestersNud.Margin = new Padding(3, 2, 3, 2);
             NumberOfJestersNud.Name = "NumberOfJestersNud";
-            NumberOfJestersNud.Size = new Size(150, 27);
+            NumberOfJestersNud.Size = new Size(131, 23);
             NumberOfJestersNud.TabIndex = 8;
             // 
             // NumberOfDoctorsNud
             // 
-            NumberOfDoctorsNud.Location = new Point(425, 380);
+            NumberOfDoctorsNud.Location = new Point(372, 285);
+            NumberOfDoctorsNud.Margin = new Padding(3, 2, 3, 2);
             NumberOfDoctorsNud.Name = "NumberOfDoctorsNud";
-            NumberOfDoctorsNud.Size = new Size(150, 27);
+            NumberOfDoctorsNud.Size = new Size(131, 23);
             NumberOfDoctorsNud.TabIndex = 9;
             // 
             // NumberOfMafiaNud
             // 
-            NumberOfMafiaNud.Location = new Point(638, 380);
+            NumberOfMafiaNud.Location = new Point(558, 285);
+            NumberOfMafiaNud.Margin = new Padding(3, 2, 3, 2);
             NumberOfMafiaNud.Name = "NumberOfMafiaNud";
-            NumberOfMafiaNud.Size = new Size(150, 27);
+            NumberOfMafiaNud.Size = new Size(131, 23);
             NumberOfMafiaNud.TabIndex = 10;
             // 
             // NumberOfVillagersNud
             // 
-            NumberOfVillagersNud.Location = new Point(321, 322);
+            NumberOfVillagersNud.Location = new Point(281, 242);
+            NumberOfVillagersNud.Margin = new Padding(3, 2, 3, 2);
             NumberOfVillagersNud.Name = "NumberOfVillagersNud";
-            NumberOfVillagersNud.Size = new Size(150, 27);
+            NumberOfVillagersNud.Size = new Size(131, 23);
             NumberOfVillagersNud.TabIndex = 11;
             // 
             // NumberOfVilagersLabel
             // 
             NumberOfVilagersLabel.AutoSize = true;
-            NumberOfVilagersLabel.Location = new Point(301, 299);
+            NumberOfVilagersLabel.Location = new Point(263, 224);
             NumberOfVilagersLabel.Name = "NumberOfVilagersLabel";
-            NumberOfVilagersLabel.Size = new Size(198, 20);
+            NumberOfVilagersLabel.Size = new Size(157, 15);
             NumberOfVilagersLabel.TabIndex = 12;
             NumberOfVilagersLabel.Text = "Number Of Vilagers in game";
             // 
             // NumberOfDetectivesLabel
             // 
             NumberOfDetectivesLabel.AutoSize = true;
-            NumberOfDetectivesLabel.Location = new Point(60, 357);
+            NumberOfDetectivesLabel.Location = new Point(52, 268);
             NumberOfDetectivesLabel.Name = "NumberOfDetectivesLabel";
-            NumberOfDetectivesLabel.Size = new Size(78, 20);
+            NumberOfDetectivesLabel.Size = new Size(61, 15);
             NumberOfDetectivesLabel.TabIndex = 13;
             NumberOfDetectivesLabel.Text = "Detectives";
             // 
             // NumberOfJestersLabel
             // 
             NumberOfJestersLabel.AutoSize = true;
-            NumberOfJestersLabel.Location = new Point(260, 357);
+            NumberOfJestersLabel.Location = new Point(228, 268);
             NumberOfJestersLabel.Name = "NumberOfJestersLabel";
-            NumberOfJestersLabel.Size = new Size(52, 20);
+            NumberOfJestersLabel.Size = new Size(41, 15);
             NumberOfJestersLabel.TabIndex = 14;
             NumberOfJestersLabel.Text = "Jesters";
             // 
             // NumberOfDoctorsLabel
             // 
             NumberOfDoctorsLabel.AutoSize = true;
-            NumberOfDoctorsLabel.Location = new Point(466, 357);
+            NumberOfDoctorsLabel.Location = new Point(408, 268);
             NumberOfDoctorsLabel.Name = "NumberOfDoctorsLabel";
-            NumberOfDoctorsLabel.Size = new Size(61, 20);
+            NumberOfDoctorsLabel.Size = new Size(48, 15);
             NumberOfDoctorsLabel.TabIndex = 15;
             NumberOfDoctorsLabel.Text = "Doctors";
             // 
             // NumberOfMafiaLabel
             // 
             NumberOfMafiaLabel.AutoSize = true;
-            NumberOfMafiaLabel.Location = new Point(678, 360);
+            NumberOfMafiaLabel.Location = new Point(593, 270);
             NumberOfMafiaLabel.Name = "NumberOfMafiaLabel";
-            NumberOfMafiaLabel.Size = new Size(47, 20);
+            NumberOfMafiaLabel.Size = new Size(37, 15);
             NumberOfMafiaLabel.TabIndex = 16;
             NumberOfMafiaLabel.Text = "Mafia";
+            // 
+            // RemovePlayer
+            // 
+            RemovePlayer.Location = new Point(558, 118);
+            RemovePlayer.Name = "RemovePlayer";
+            RemovePlayer.Size = new Size(130, 23);
+            RemovePlayer.TabIndex = 17;
+            RemovePlayer.Text = "Remove Player";
+            RemovePlayer.UseVisualStyleBackColor = true;
+            RemovePlayer.Click += RemovePlayer_Click;
             // 
             // GameForm
             // 
             AcceptButton = StartGameButton;
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
+            Controls.Add(RemovePlayer);
             Controls.Add(NumberOfMafiaLabel);
             Controls.Add(NumberOfDoctorsLabel);
             Controls.Add(NumberOfJestersLabel);
@@ -221,8 +245,10 @@
             Controls.Add(NumberOfPlayers);
             Controls.Add(PlayerNamesTextBox);
             Controls.Add(playerCount);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "GameForm";
             Text = "GameForm";
+            Load += GameForm_Load;
             ((System.ComponentModel.ISupportInitialize)playerCount).EndInit();
             ((System.ComponentModel.ISupportInitialize)NumberOfDetectivesNud).EndInit();
             ((System.ComponentModel.ISupportInitialize)NumberOfJestersNud).EndInit();
@@ -252,5 +278,6 @@
         private Label NumberOfJestersLabel;
         private Label NumberOfDoctorsLabel;
         private Label NumberOfMafiaLabel;
+        private Button RemovePlayer;
     }
 }

@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\",
+  "WorkspaceRootPath": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\maingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\maingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\maingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\maingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\maingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\maingameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\functionality\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\functionality\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\playercontrolsnight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\playercontrolsnight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\playercontrolsnight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\playercontrolsnight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\playercontrolsnight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\playercontrolsnight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\maingameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\maingameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\functionality\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\functionality\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\playercontrollsday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\playercontrollsday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\playercontrollsday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\playercontrollsday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\playercontrollsday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\maingameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\maingameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\controlform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\controlform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\maingameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\maingameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\villager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\villager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\jester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\jester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\mafia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\mafia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\detective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\detective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\users\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\users\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\users\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\playercontrollsday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\playercontrollsday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\villager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\villager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\mafia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\mafia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\jester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\jester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\roles\\detective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\roles\\detective.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\gameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\controlform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\controlform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\controlform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\maingameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\maingameform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\classlibraryofcharacters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\classlibraryofcharacters\\classlibraryofcharacters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{20C9BB15-7FCC-4F5B-82F9-81BBB5A3747F}|ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj|solutionrelative:classlibraryofcharacters\\classlibraryofcharacters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|c:\\users\\bfb\\source\\repos\\zone-otp\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|d:\\work stuff zezva\\mafiagame\\mafiagamebase\\mafiagamebase\\gamefolder\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF8CFD6-A5DB-43E6-8426-369AFEAF86E0}|MafiaGameBase\\MafiaGameBase.csproj|solutionrelative:mafiagamebase\\gamefolder\\gameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -121,12 +121,156 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControlsNight.cs [Design]",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs [Design]",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T20:23:25.056Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainGameForm.Designer.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwFcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:30:01.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControlsNight.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAMwEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:16:41.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainGameForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\MainGameForm.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs [Design]",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\MainGameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:10:15.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGameForm.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\MainGameForm.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\MainGameForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:15:15.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Functionality\\Game.cs",
+              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Functionality\\Game.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Functionality\\Game.cs",
+              "RelativeToolTip": "ClassLibraryOfCharacters\\Functionality\\Game.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAtwDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:38:33.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerControllsDay.cs [Design]",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs [Design]",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\PlayerControllsDay.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:48:08.82Z",
+              "EditorCaption": " [Design]"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Users\\Player.cs",
+              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Users\\Player.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Users\\Player.cs",
+              "RelativeToolTip": "ClassLibraryOfCharacters\\Users\\Player.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:36:58.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Jester.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Jester.cs",
+              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Jester.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Jester.cs",
+              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Jester.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:11:25.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Villager.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Villager.cs",
+              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Villager.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Villager.cs",
+              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Villager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:05:59.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mafia.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Mafia.cs",
+              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Mafia.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Mafia.cs",
+              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Mafia.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:57:12.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PlayerControllsDay.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
               "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
               "RelativeToolTip": "MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,11 +279,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Doctor.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Doctor.cs",
+              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Doctor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:16:58.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Detective.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Detective.cs",
+              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Detective.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Detective.cs",
+              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Detective.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:23:28.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\GameForm.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs [Design]",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\GameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:07:04.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameForm.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\GameForm.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\GameForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA1wEoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:34:49.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ControlForm.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs",
               "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\ControlForm.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs",
               "RelativeToolTip": "MafiaGameBase\\GameFolder\\ControlForm.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAawBMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -148,118 +343,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Functionality\\Game.cs",
-              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Functionality\\Game.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Functionality\\Game.cs",
-              "RelativeToolTip": "ClassLibraryOfCharacters\\Functionality\\Game.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAASwBYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T12:38:33.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PlayerControlsNight.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAawCEAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T18:16:41.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainGameForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\MainGameForm.Designer.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAlwCsAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T22:42:27.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainGameForm.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\MainGameForm.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\MainGameForm.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAhwCQAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T19:15:15.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlayerControllsDay.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\PlayerControllsDay.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControllsDay.cs [Design]",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\PlayerControllsDay.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T18:48:08.82Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameForm.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\GameForm.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\GameForm.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAWwEAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T11:34:49.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainGameForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\MainGameForm.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.cs [Design]",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\MainGameForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T19:10:15.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerControlsNight.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\PlayerControlsNight.cs [Design]",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\PlayerControlsNight.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T20:23:25.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ControlForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\ControlForm.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs [Design]",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\ControlForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T21:59:25.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "ControlForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.Designer.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.Designer.cs",
               "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\ControlForm.Designer.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.Designer.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.Designer.cs",
               "RelativeToolTip": "MafiaGameBase\\GameFolder\\ControlForm.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,105 +355,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GameForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs",
-              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\GameForm.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.cs [Design]",
-              "RelativeToolTip": "MafiaGameBase\\GameFolder\\GameForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T11:32:31.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "MainGameForm.resx",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.resx",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.resx",
               "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\MainGameForm.resx",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.resx",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\MainGameForm.resx",
               "RelativeToolTip": "MafiaGameBase\\GameFolder\\MainGameForm.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-08-22T21:30:55.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Villager.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Villager.cs",
-              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Villager.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Villager.cs",
-              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Villager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T10:05:59.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Jester.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Jester.cs",
-              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Jester.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Jester.cs",
-              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Jester.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAEwAwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T10:11:25.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Mafia.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Mafia.cs",
-              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Mafia.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Mafia.cs",
-              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Mafia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T09:57:12.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Doctor.cs",
-              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Doctor.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Doctor.cs",
-              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Doctor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T10:16:58.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Detective.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Detective.cs",
-              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Roles\\Detective.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Roles\\Detective.cs",
-              "RelativeToolTip": "ClassLibraryOfCharacters\\Roles\\Detective.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T10:23:28.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Users\\Player.cs",
-              "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\Users\\Player.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\Users\\Player.cs",
-              "RelativeToolTip": "ClassLibraryOfCharacters\\Users\\Player.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAvwB0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T10:36:58.333Z"
+              "WhenOpened": "2025-08-22T21:30:55.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\Program.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\Program.cs",
               "RelativeDocumentMoniker": "MafiaGameBase\\Program.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\Program.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\Program.cs",
               "RelativeToolTip": "MafiaGameBase\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -375,9 +381,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "ClassLibraryOfCharacters.csproj",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
               "RelativeDocumentMoniker": "ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
               "RelativeToolTip": "ClassLibraryOfCharacters\\ClassLibraryOfCharacters.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -387,13 +393,25 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "GameForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.Designer.cs",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.Designer.cs",
               "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\GameForm.Designer.cs",
-              "ToolTip": "C:\\Users\\BFB\\source\\repos\\Zone-OTP\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.Designer.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\GameForm.Designer.cs",
               "RelativeToolTip": "MafiaGameBase\\GameFolder\\GameForm.Designer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T11:45:23.905Z"
+              "WhenOpened": "2025-08-22T11:45:23.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ControlForm.cs [Design]",
+              "DocumentMoniker": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs",
+              "RelativeDocumentMoniker": "MafiaGameBase\\GameFolder\\ControlForm.cs",
+              "ToolTip": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\GameFolder\\ControlForm.cs [Design]",
+              "RelativeToolTip": "MafiaGameBase\\GameFolder\\ControlForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T21:59:25.255Z"
             }
           ]
         }

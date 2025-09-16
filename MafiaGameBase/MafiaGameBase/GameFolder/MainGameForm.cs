@@ -34,23 +34,32 @@ namespace MafiaGameBase.GameFolder
                 playerMove.ShowDialog();
             }
             this.Show();
-            Player? deadPlayer = Game.Players.FirstOrDefault(p => p.Alive == false);
-            if (deadPlayer != null) { Game.Players.Remove(deadPlayer); }
+            int maxVote = 0;
+            
         }
 
         private void MainGameForm_Load(object sender, EventArgs e)
         {
-            PreviusDayUpNightLabel.Text = dayUpdate;
         }
 
         private void MainGameForm_Shown(object sender, EventArgs e)
         {
             PreviusDayUpNightLabel.Text = dayUpdate;
+            
         }
 
         private void MainGameForm_FormClosed(object sender, FormClosedEventArgs e)
         {
             Application.Exit();
+        }
+
+        private void MainGameForm_Activated(object sender, EventArgs e)
+        {
+            PreviusDayUpNightLabel.Text = dayUpdate;
+            if (dayCount > 0) {
+                var playerName = Game.RemoveVotedPlayer();
+                PreviusDayUpNightLabel.Text = $"player {playerName} HAS BEEN KILLED";
+            }
         }
     }
 }
