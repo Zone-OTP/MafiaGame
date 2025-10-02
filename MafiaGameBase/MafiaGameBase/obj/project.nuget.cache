@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Mi97Ni1LxuE=",
+  "dgSpecHash": "aAUz3GLVBrk=",
   "success": true,
-  "projectFilePath": "D:\\WORK STUFF ZEZVA\\MafiaGame\\MafiaGameBase\\MafiaGameBase\\MafiaGameBase.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/zone/Work/MafiaGame/MafiaGameBase/MafiaGameBase/MafiaGameBase.csproj",
+  "expectedPackageFiles": [
+    "/home/zone/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
   "logs": []
 }
